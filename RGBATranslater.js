@@ -17,9 +17,9 @@
  * @colorOnly {Boolean} 
  * @return {String}
  */
-exports = module.exports = function RGBATranslate(color, colorOnly) {
+module.exports = function RGBATranslate(color, colorOnly) {
     var rgba = color.substring(5,color.length - 1);
-    var ieColor = '#' + this.translater(rgba);
+    var ieColor = '#' + translater(rgba);
     return !!colorOnly 
         ? ieColor 
         : 'progid:DXImageTransform.Microsoft.Gradient(startColorstr='+ ieColor +',endColorstr='+ ieColor +')';

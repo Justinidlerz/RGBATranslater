@@ -1,6 +1,6 @@
 {
   "name": "rgba-translater",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "To translate rgba color to 16 binary model",
   "main": "RGBATranslater.js",
   "scripts": {
