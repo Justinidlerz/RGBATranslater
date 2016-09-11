@@ -1,0 +1,16 @@
+{
+  "name": "rgba-translater",
+  "version": "1.0.0",
+  "description": "To translate rgba color to 16 binary model",
+  "main": "RGBATranslater.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rgba",
+    "ie8",
+    "translater"
+  ],
+  "author": "idler",
+  "license": "MIT"
+}
