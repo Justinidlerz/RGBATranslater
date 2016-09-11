@@ -11,6 +11,14 @@
     "ie8",
     "translater"
   ],
-  "author": "idler",
-  "license": "MIT"
+  "author": "idler (zqc.sunny@aliyun.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Justinidlerz/RGBATranslater.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Justinidlerz/RGBATranslater/issues"
+  },
+  "homepage": "https://github.com/Justinidlerz/RGBATranslater#readme"
 }
